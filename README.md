@@ -1,2 +1,3 @@
 # Icehockey-Puck-Detection
 Ice hockey game analysis i.e puck detection by capturing each frame.
+This Python code uses the Roboflow platform to analyze a video of an ice hockey game. It tracks the movement of the hockey puck in each frame, calculating its average speed and overall distance traveled throughout the entire video. The code relies on computer vision techniques, using the Roboflow model to make predictions about the puck's location in each frame. The results, including the average speed and total distance traveled by the puck, are then printed. The code also handles video processing tasks, such as reading frames and releasing the video capture object when finished.
